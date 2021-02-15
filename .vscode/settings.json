@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
