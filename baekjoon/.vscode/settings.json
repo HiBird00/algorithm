@@ -12,6 +12,10 @@
         "utility": "cpp",
         "algorithm": "cpp",
         "iosfwd": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "sstream": "cpp",
+        "queue": "cpp",
+        "deque": "cpp",
+        "ios": "cpp"
     }
 }
